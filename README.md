@@ -90,6 +90,5 @@ Interactive map visualization shows employee distribution across U.S. states.
 - Location-based hiring patterns
 
 ### Dashboard
-
-
+![image alt](https://github.com/blessingajidahun/HR-Workforce-Analytics/blob/35386e9961104e2a8edcc000014475f6914a5fea/Dashboard%20screenshot_data%20visualisation.PNG)
 
